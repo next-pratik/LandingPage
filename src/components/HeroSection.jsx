@@ -16,7 +16,7 @@ const HeroSection = () => {
 
 
   return (
-    <section className="relative flex h-screen w-full items-center justify-center overflow-hidden text-center px-6 bg-gradient-to-b from-gray-900 to-black">
+    <section id="home" className="relative flex h-screen w-full items-center justify-center overflow-hidden text-center px-6 bg-gradient-to-b from-gray-900 to-black">
       
       {/* Background Image */}
       <div
